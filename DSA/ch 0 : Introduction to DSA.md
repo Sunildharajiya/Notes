@@ -24,9 +24,17 @@ Most tech companies use DSA questions in coding interviews because it shows how 
 ## Common Data Structures
 ### 1. Array
 Stores elements in a continuous memory location.
-J
+Javascript :
 ```js
 const numbers = [1, 2, 3, 4];
+```
+c++ :
+```cpp
+const int numbers[] = {1, 2, 3, 4};
+```
+python :
+```py
+numbers = [1, 2, 3, 4]
 ```
 ### 2. Linked List
 A sequence of connected nodes where each node stores data and a pointer.
