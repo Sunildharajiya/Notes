@@ -43,9 +43,7 @@ End
 ```
  ## Example
 
-<p align="center">
-  <img src="./example.png" width="300" border = "1px">
-</p>
+![Basic Structure](./example.png)
 
 ---------
 ## Flowchart in Algorithm Design
