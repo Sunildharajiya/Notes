@@ -3,7 +3,7 @@
 # Introduction
 Searching is the process of finding a specific element (called the key or target) in a collection of data.
 Example :
-```
+```txt    
 Array = [10, 25, 35, 50, 80]
 Target = 35
 ```
@@ -35,7 +35,7 @@ Algorithm:
 - Repeat until the end.
 
 Example:
-``` 
+```txt   
 Array:
 
 12 25 30 42 55 61
