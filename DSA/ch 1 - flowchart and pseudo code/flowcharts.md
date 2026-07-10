@@ -28,7 +28,7 @@ Flowcharts are useful because they:
 ---------
  
  ## Basic Structure of a Flowchart
- ```
+```md
  Start
   ↓
 Input Data
