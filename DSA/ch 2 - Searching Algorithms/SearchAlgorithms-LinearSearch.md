@@ -53,7 +53,7 @@ Find 42
 - Works on unsorted data
 - Easy to implement
 
-### Disadvantages
+#### Disadvantages
 - Slow for large datasets
 - May need to check every element
 
