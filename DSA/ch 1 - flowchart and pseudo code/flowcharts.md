@@ -26,9 +26,9 @@ Flowcharts are useful because they:
  | Arrow | Flow Direction | 
  
 ---------
- 
  ## Basic Structure of a Flowchart
-```md
+ 
+```txt
  Start
   ↓
 Input Data
@@ -40,8 +40,10 @@ Check Condition
 Display Output
   ↓
 End
+
 ```
- ## Example
+
+## Example
 
 ![Basic Structure](./example.png)
 
